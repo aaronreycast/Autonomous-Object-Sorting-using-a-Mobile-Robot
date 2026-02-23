@@ -1,2 +1,2 @@
 # Autonomous-Object-Sorting-using-a-Mobile-Robot
-This project presents some methodological aspects for implementing autonomous sorting of objects using a mobile robot. Algorithm implementation is analyzed as well as roadmap design. Results are tested in a MATLAB simulation environment. 
+This project implements an autonomous object‑sorting pipeline using a mobile robot equipped with perception, planning, and control modules. The system detects objects, classifies them, navigates toward each target, and places them in predefined sorting zones. All algorithms were developed and tested in a MATLAB simulation environment.
