@@ -1,0 +1,42 @@
+# MATLAB autosave and backup files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB / Simulink generated data and caches
+*.mat
+*.mex*
+*.slxc
+
+# Simulink project build / cache folders
+slprj/
+sccprj/
+codegen/
+
+# Simulink autosave backups
+*.slx.original
+*.slx.r*
+*.bak
+
+# MATLAB editor / session files
+*.mlsettings
+
+# Raw video captures (commit lightweight GIF/MP4 in docs/media instead)
+*.avi
+*.mov
+*.mkv
+*.wmv
+
+# Source report working copy (the PDF in docs/ is committed instead)
+*.docx
+~$*.docx
+
+# Operating system cruft
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
