@@ -138,10 +138,10 @@ Supporting modules:
 
 This was a four-person team project for ME 598 (Group R2: Jefrey Bulla, Reece Paz, Aaron Reyes, Pratham Waghela). My individual contributions were:
 
-- **Collision / wall-avoidance algorithm** — designed and implemented the saturated-ramp velocity law that maps the left/front/right distance-sensor readings to motor commands, keeping the robot clear of the arena walls during navigation and plowing.
-- **Technical documentation** — contributed to the written project report, including the analysis and figures supporting the collision-avoidance and system-characterization sections.
+- **Roadmap / path design** — helped determine the analytical starting point for the roadmap and ran tests to tune the path waypoints (Pre-Plow Positions) so each object follows a collision-free route to its zone.
+- **Wall-avoidance algorithm (report)** — helped develop the wall-avoidance approach and documented it in the project report, including the supporting analysis and figures.
 
-The roadmap design, Pre-Plow Position derivation, path-planning code, and the Simulink state machine were developed collaboratively with my teammates.
+The Simulink state machine, the path-planning code, and the broader Pre-Plow Position derivation were developed collaboratively with my teammates.
 
 ## Tech Stack
 
